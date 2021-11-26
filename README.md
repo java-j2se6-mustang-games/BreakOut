@@ -62,6 +62,7 @@
 ## Release Notes
 | VERSION | NOTE |
 | ------ | ------ |
+| V1.0.1 | Display item UI adjustment, screen resolution change. |
 | V1.0.0 | Add Unity Project files. |
 
 ## Licence
