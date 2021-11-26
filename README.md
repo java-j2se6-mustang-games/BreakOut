@@ -13,7 +13,7 @@
 1. RESULT
 
 ## Demo
-　URL：<br>
+　URL：https://unityroom.com/games/mustang-java-j2se6-games_breakout<br>
 
 ## Features
 　In the game scene, use the keyboard to operate.<br>
@@ -35,12 +35,12 @@
 ## Requirement
 <H3>Package</H3><br>
 
-- TextMeshPro
+- TextMeshPro(Install from Package Manager in the Unity Editor)
 - [NCMB] naichilab / unity-simple-ranking(https://github.com/naichilab/unity-simple-ranking)
-- FantomMusic (From assets store)
-- Free-Retro-Music & SE (From assets store)
-- SpaceSkies Free (From assets store)
-- AllSkyFree (From assets store)
+- Seamless Loop and Short Music. (From assets store:https://assetstore.unity.com/packages/audio/music/seamless-loop-and-short-music-107732)
+- Free-Retro-Music & SE (From assets store:https://assetstore.unity.com/packages/audio/music/electronic/free-retro-music-se-33285)
+- SpaceSkies Free (From assets store:https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503)
+- AllSkyFree (From assets store:https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
 <br>
 
 <H3>Font</H3><br>
