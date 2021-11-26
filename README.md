@@ -62,7 +62,7 @@
 ## Release Notes
 | VERSION | NOTE |
 | ------ | ------ |
-| V1.0.0 | Add Unity Projects files. |
+| V1.0.0 | Add Unity Project files. |
 
 ## Licence
 　This software is released under the MIT License, see LICENSE.<br>
